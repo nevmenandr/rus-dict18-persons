@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Упоминания в статьях словаря",
-    "colorLabel": "Betweenness Centrality",
+    "colorLabel": "Степень узла",
     "nodeLabel": "Литераторы XVIII века"
   },
   "features": {
