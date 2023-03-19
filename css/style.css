@@ -205,6 +205,18 @@ display:inline-block;
 	display:none;
 }
 
+#pushdom {
+width: 227px;
+height: 56px;
+background-image: url('../images/logo_3.png');
+background-repeat: no-repeat;
+display:inline-block;
+}
+
+#pushdom span {
+	display:none;
+}
+
 #oii {
 width: 227px;
 height: 56px;
