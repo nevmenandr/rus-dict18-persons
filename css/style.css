@@ -199,6 +199,7 @@ height: 56px;
 background-image: url('../images/jisc-logo-small.png');
 background-repeat: no-repeat;
 display:inline-block;
+margin-right:10px;
 }
 
 #jisc span {
@@ -211,6 +212,7 @@ height: 56px;
 background-image: url('../images/logo_3.png');
 background-repeat: no-repeat;
 display:inline-block;
+	
 }
 
 #pushdom span {
